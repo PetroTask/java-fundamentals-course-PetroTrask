@@ -9,7 +9,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Herramientas necesarias:** **Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-** Repositorio de Código Fuente:** [https://github.com/yourusername/java-fundamentals-course-teammame](https://github.com/yourusername/java-fundamentals-course-teammame)
+**Repositorio de Código Fuente:** [https://github.com/yourusername/java-fundamentals-course-teammame](https://github.com/yourusername/java-fundamentals-course-teammame)
 
 ## Secuencia de la Lección
 
