@@ -17,44 +17,43 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlaces**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link1)
 - **Conclusiones claves**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit – Hola Mundo](#) [https://replit.com/@your-starter-java]
+- **Empieza a programar**: [Abrir Replit – Hola Mundo](#) [https://replit.com]
 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlaces**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link2)
 - **Conclusiones claves**: Usa int, String; declara como int age = 15;
-- **Prácticas**: [Clic para programar](#) [https://replit.com/@your-variables-java] ➔ **¡No es necesario registrarse!**
+- **Prácticas**: [Clic para programar](#) [https://replit.com] ➔ **¡No es necesario registrarse!**
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlaces**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link3)
 - **Conclusiones claves**: if (age >= 12) {}; for (int i=0; i<5; i++) {}
-- **Prácticas**: [Clic para programar](#) [https://jdoodle.com/execute-java-online/your-id] ➔ **¡Inicio inmediato!**
+- **Prácticas**: [Clic para programar](#) [https://jdoodle.com] ➔ **¡Inicio inmediato!**
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la P00 (12 minutos)
 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlaces**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](#) [https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones claves**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Prácticas**: [Haz clic para practicar](#) [https://onlinegdb.com/your-gdb-id] ➔ **¡No necesitas registrarte!**
+- **Prácticas**: [Haz clic para practicar](#) [https://onlinegdb.com] ➔ **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlaces:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones claves:** Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) • **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://replit.com) • **¡Guarda y comparte!**
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlaces:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos claves:** Depurar errores, explorar la documentación de Oracle Java.
-- **Comparte tu trabajo:** [Enviar creación](https://forms.gle/your-form)
 
 ---
 
