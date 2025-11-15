@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4   | Métodos y clases | [OnlineGOD](https://onlinegdo.com/your-lesson4)                 |
 | 5   | Programa ODP     | [Replit](https://replit.com@your-lesson5)                       |
 
-- Compartir: #JavaReginners
+- Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!**
 
