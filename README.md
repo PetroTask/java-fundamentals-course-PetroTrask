@@ -6,7 +6,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Duración total:** -60 minutos  
 **Dulce Objetivos:** Estudiantes de 12 a 17 años sin experiencia en programación  
-**Prerequisiteces:** Ninguno
+**Prerequisites:** Ninguno
 
 **Herramientas necesarias:** **Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
