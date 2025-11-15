@@ -44,11 +44,22 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-## 🤝 Trabajo en equipo
+## � Elaboración
 
-Este curso fue desarrollado en equipo, con enfoque en accesibilidad, claridad y motivación para estudiantes sin experiencia previa.  
-Cada miembro contribuyó en la elaboración de prácticas, guiones de video y revisión de contenido.
+Universidad Peruana de Ciencias Aplicadas
+Carrera de Ingeniería de Software
+Período 202520
+1ASI0729 Desarrollo de Aplicaciones Open Source
+NRC 7349
+**Nombre del equipo**: PetroTask
+**Líder del equipo**: Santiago Valentino Solis Chang
 
----
+**Integrantes del equipo**:
+| **Nombre** |
+| ---------------------------------- |
+| Huaman Cuba, Johan Giovani |
+| Solis Chang, Santiago Valentino |
+| Aguilar Untiveros, Rodrigo Fabrizio |
+| Oskar Rodrigo Sosa Soto |
 
-¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo más acerca de Java! ☕🚀
+**Fecha de entrega**: 15 de noviembre del 2025
