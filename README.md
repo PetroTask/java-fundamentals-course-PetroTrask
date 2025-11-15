@@ -56,22 +56,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Consejos claves:** Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajos:** [Enviar creación](https://forms.gle/your-form)
 
-## Recursos adicionales
+---
 
-- **Código fuente completos:** [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
-- **Todas las actividades prácticas**
-- Número de lección | Actividad | Empezar a programar |
+## 🤝 Trabajo en equipo
 
-|     |                  |
-| --- | ---------------- | --------------------------------------------------------------- |
-| 1   | Hola mundo       | [Replit](https://replit.com@your-lesson1)                       |
-| 2   | Variables        | [Replit](https://replit.com@your-lesson2)                       |
-| 3   | Buckles          | [JhooQlo](https://jhooQlo.com/execute-java-online/your-lesson3) |
-| 4   | Métodos y clases | [OnlineGOD](https://onlinegdo.com/your-lesson4)                 |
-| 5   | Programa ODP     | [Replit](https://replit.com@your-lesson5)                       |
-
-- Compartir: #JavaBeginners
-
-**¡Gracias por completar el curso!**
+Este curso fue desarrollado en equipo, con enfoque en accesibilidad, claridad y motivación para estudiantes sin experiencia previa.  
+Cada miembro contribuyó en la elaboración de prácticas, guiones de video y revisión de contenido.
 
 ---
+
+¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo más acerca de Java!
