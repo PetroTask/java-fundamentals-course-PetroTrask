@@ -75,15 +75,3 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **¡Gracias por completar el curso!**
 
 ---
-
-## Elaboración
-
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202503
-IAS10729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
-**Nombre del equipos**: [Nombre de tu equipo]
-**Lider del equipos**: [Nombres y Apellidos]
-**Integrantes del equipos**: [Nombres y Apellidos]
-**Fecha de entregas**: [Fecha]
