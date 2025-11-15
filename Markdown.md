@@ -64,4 +64,4 @@ Cada miembro contribuyó en la elaboración de prácticas, guiones de video y re
 
 ---
 
-¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo más acerca de Java!
+¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo más acerca de Java! ☕🚀
