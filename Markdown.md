@@ -4,7 +4,7 @@
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total:** ~60 minutos  
+**Duración total:** ~42 minutos  
 **Público Objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerequisitos:** Ninguno
 
